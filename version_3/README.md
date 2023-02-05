@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 ## Versions
 
-Version_0: prototype of the game
-Version_1: addition of coins and obstacles, timer and score features
-Version_2: addition of algorithmic maze generation, adventure mode and sound effects/music
+- Version_0: prototype of the game
+- Version_1: addition of coins and obstacles, timer and score features
+- Version_2: addition of algorithmic maze generation, adventure mode and sound effects/music
 
 ## License
 This program belongs to Łukasz Pszenny, Paul Bédier and Mengyu Liang.
